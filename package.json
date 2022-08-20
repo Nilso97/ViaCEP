@@ -1,0 +1,10 @@
+{
+  "name": "CEP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "mdb-ui-kit": "^4.4.0"
+  }
+}
