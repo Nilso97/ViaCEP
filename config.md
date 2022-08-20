@@ -2,4 +2,4 @@
 $ yarn init -y
 $ git init
 
-$ yarn add bootstrap --sav
+$ yarn add bootstrap --save
